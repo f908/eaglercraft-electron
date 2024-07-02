@@ -1,2 +1,10 @@
-# eaglercraft-electron-new
-Electron-based app for EaglercraftX 1.8
+# EaglercraftX 1.8 Electron
+Go to releases to download.
+
+Supported platforms:
+| Platform  | Supported |
+| ------------- | ------------- |
+| Windows  | ✅ |
+| Linux  | ✅ |
+| Darwin (macOS)  | ❌ |
+| BSD  | ❌ |
