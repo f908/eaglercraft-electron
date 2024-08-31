@@ -8,3 +8,4 @@ Supported platforms:
 | Linux  | ✅ |
 | Darwin (macOS)  | ❌ |
 | BSD  | ❌ |
+| Android  | ❌ |
