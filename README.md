@@ -9,3 +9,4 @@ Supported platforms:
 | Darwin (macOS)  | ❌ |
 | BSD  | ❌ |
 | Android  | ❌ |
+| iOS  | ❌ |
